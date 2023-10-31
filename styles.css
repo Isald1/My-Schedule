@@ -1,0 +1,17 @@
+body{
+    background-color: darkmagenta;
+    text-align: center;
+}
+h1{
+    color: crimson;
+}
+table{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 20px;
+}
+th{
+    background-color: bisque;
+    font-weight: bold;
+}
+
+
