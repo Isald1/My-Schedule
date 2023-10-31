@@ -1,5 +1,5 @@
 body{
-    background-color: darkmagenta;
+    background-color: rgb(103, 58, 103);
     text-align: center;
 }
 h1{
@@ -10,8 +10,15 @@ table{
     width: 20px;
 }
 th{
-    background-color: bisque;
+    background-color: rgb(45, 26, 2);
     font-weight: bold;
+    text-align: center;
+}
+th, td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    color: beige;
 }
 
 
